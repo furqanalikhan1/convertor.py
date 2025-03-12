@@ -31,4 +31,4 @@ st.write("""
 3️⃣ **Enter a value** and press **Convert** to see the result.  
 """)
 
-st.markdown(f"🔗 [View Source Code on GitHub]({furqanalikhan1})")
+st.markdown(f"🔗 [View Source Code on GitHub]({https://github.com/furqanalikhan1/convertor.py/edit/main/convertor.py})")
