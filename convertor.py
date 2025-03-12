@@ -31,4 +31,4 @@ st.write("""
 3️⃣ **Enter a value** and press **Convert** to see the result.  
 """)
 
-st.markdown(f"🔗 [View Source Code on GitHub]({github_repo_url})")
+st.markdown(f"🔗 [View Source Code on GitHub]({furqanalikhan1})")
