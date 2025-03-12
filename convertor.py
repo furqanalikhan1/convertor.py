@@ -7,7 +7,7 @@ st.set_page_config(page_title="Unit Convertor", layout="centered")
 # Title
 st.title("Unit Convertor")
 
-github_repo_url = "https://github.com/NomanKhaliq1/unit_convertor-py"
+github_repo_url = "https://github.com/furqanalikhan1/convertor.py/blob/main/convertor.py"
 
 unit_conversions = {
     "Length": {"Meters": 1, "Kilometers": 0.001, "Miles": 0.000621371, "Feet": 3.28084},
